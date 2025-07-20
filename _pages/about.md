@@ -16,4 +16,4 @@ I obtained a BSc in Physics and a MSs in Physics of Complex Systems from Univers
 
 I develop methods to investigate energy transport in physical systems with random wave fields, as well as the formation of extreme coherent events in these systems, with a focus on problems of physical oceanography. My research draws from concepts from statistical physics, turbulence, probability, optimization, and related fields, combining theory with numerical simulations and first-hand analysis of observations. I work in close collaboration with oceanographic groups (both observational and theoretical) - e.g. [Kurt Polzin](https://web.whoi.edu/polzin/) (WHOI), [Friederike Pollmann](https://www.awi.de/en/about-us/organisation/staff/single-view/friederike-pollmann.html) (Alfred Wegener Institut), [Arnaud Le Boyer](http://www.mod.ucsd.edu/arnaud-le-boyer) (Scripps, UC San Diego) - and, as much as possible, my efforts spark from and are tested against analysis of real-world data.
 
-[CV](https://giovannidematteis.github.io/files/CV-dematteis-short.pdf)
+[CV](https://giovannidematteis.github.io/files/CV-dematteis-2025.pdf)
