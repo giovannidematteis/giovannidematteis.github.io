@@ -1,9 +1,9 @@
 ---
 title: "Interacting internal waves explain global patterns of interior ocean mixing"
 collection: publications
-permalink: /publications/2024-08-interacting-internal-waves/
+permalink: /publications/2024-08-09-interacting-internal-waves/
 excerpt: ''
-date: 2024-08
+date: 2024-08-09
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-024-51503-6'
 citation: 'Dematteis, G., Le Boyer, A., Pollmann, F., Polzin, K.L., Alford, M.H., Whalen, C.B. and Lvov, Y.V., 2024. Interacting internal waves explain global patterns of interior ocean mixing. Nature Communications, 15(1), p.7468.'
