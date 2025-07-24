@@ -10,5 +10,3 @@ citation: 'Dematteis, G. and Lvov, Y.V., 2021. Downscale energy fluxes in scale-
 ---
 
 [Download paper here](https://arxiv.org/pdf/2010.06717.pdf)
-
-Dematteis, G. and Lvov, Y.V., 2021. Downscale energy fluxes in scale-invariant oceanic internal wave turbulence. Journal of Fluid Mechanics, 915.
