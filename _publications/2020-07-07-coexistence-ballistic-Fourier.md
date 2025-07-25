@@ -10,5 +10,3 @@ citation: 'Dematteis, G., Rondoni, L., Proment, D., De Vita, F. and Onorato, M.,
 ---
 
 [Download paper here](https://arxiv.org/pdf/1912.08622.pdf)
-
-Dematteis, G., Rondoni, L., Proment, D., De Vita, F. and Onorato, M., 2020. Coexistence of Ballistic and Fourier Regimes in the β Fermi-Pasta-Ulam-Tsingou Lattice. Physical Review Letters, 125(2), p.024101.
