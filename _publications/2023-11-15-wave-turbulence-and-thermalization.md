@@ -5,7 +5,7 @@ permalink: /publications/2023-11-15-wave-turbulence-and-thermalization/
 excerpt: ''
 date: 2023-11-15
 venue: 'Physics Reports'
-paperurl: '[https://www.sciencedirect.com/science/article/abs/pii/S0370157323003046?casa_token=8XuC0_oFbccAAAAA:_AGCTSMZoTPYSrpGbmGs0UUn8KKJy7YpCvVn_Gq9aYSUrtAWRXdscETr0nACP466W_H4xksV]'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0370157323003046?casa_token=8XuC0_oFbccAAAAA:_AGCTSMZoTPYSrpGbmGs0UUn8KKJy7YpCvVn_Gq9aYSUrtAWRXdscETr0nACP466W_H4xksV'
 citation: 'Onorato, M., Lvov, Y.V., Dematteis, G. and Chibbaro, S., 2023. Wave turbulence and thermalization in one-dimensional chains. Physics Reports, 1040, pp.1-36.'
 ---
 
