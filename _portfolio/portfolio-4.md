@@ -10,9 +10,9 @@ collection: portfolio
 Collaborators: [Eric Vanden Eijnden](https://wp.nyu.edu/courantinstituteofmathematicalsciences-eve2/), [Tobias Grafke](https://homepages.warwick.ac.uk/staff/T.Grafke/), [Miguel Onorato](http://personalpages.to.infn.it/~onorato/Home.html)<br><br>
 
 Select publications:
-- [Experimental evidence of hydrodynamic instantons (PRX 2019)](/publications/2019-12-18-experimental-evidence-instantons)
-- [Extreme events in dynamical systems (JUQ 2019)](/publications/2019-08-13-extreme-events-dynamical-systems)
-- [Rogue waves and large deviations (PNAS 2018)](/publications/2018-01-30-rogue-waves-large-deviations)<br><br>
+- [Dematteis, G., Grafke, T., Onorato, M. and Vanden-Eijnden, E., 2019. Experimental evidence of hydrodynamic instantons: the universal route to rogue waves. Physical Review X, 9(4), p.041057.](/publications/2019-12-18-experimental-evidence-instantons)
+- [Dematteis, G., Grafke, T. and Vanden-Eijnden, E., 2019. Extreme event quantification in dynamical systems with random components. SIAM/ASA Journal on Uncertainty Quantification, 7(3), pp.1029-1059.](/publications/2019-08-13-extreme-events-dynamical-systems)
+- [Dematteis, G., Grafke, T. and Vanden-Eijnden, E., 2018. Rogue waves and large deviations in deep sea. Proceedings of the National Academy of Sciences, 115(5), pp.855-860.](/publications/2018-01-30-rogue-waves-large-deviations)<br><br>
 
 Featured:
 - [Scientific American](https://www.scientificamerican.com/article/new-model-predicts-sudden-rogue-waves/)
