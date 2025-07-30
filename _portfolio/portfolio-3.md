@@ -9,5 +9,6 @@ collection: portfolio
 Collaborators: [Sergio Chibbaro](http://www.lmm.jussieu.fr/~chibbaro/Home.html), [Lamberto Rondoni](http://calvino.polito.it/~rondoni/), [Christophe Josserand](http://www.off-ladhyx.polytechnique.fr/people/josserand/), [Miguel Onorato](http://personalpages.to.infn.it/~onorato/Home.html)<br><br>
 
 Select publications:
-- [Derivation wave kinetic equation (J. Phys. Commun. 2020)](/publications/2020-09-16-derivation-four-wave-kinetic-equation)
-- [4-wave kinetic turbulence hierarchy derivation (Phys. D 2018)](/publications/2018-01-01-4-wave-interactions-derivation), [Wave turbulence four-wave systems (PRE 2017)](/publications/2017-08-30-wave-turbulence-four-wave-systems)
+- [Onorato, M. and Dematteis, G., 2020. A straightforward derivation of the four-wave kinetic equation in action-angle variables. Journal of Physics Communications, 4(9), p.095016.](/publications/2020-09-16-derivation-four-wave-kinetic-equation)
+- [Chibbaro, S., Dematteis, G. and Rondoni, L., 2018. 4-wave dynamics in kinetic wave turbulence. Physica D: Nonlinear Phenomena, 362, pp.24-59.](/publications/2018-01-01-4-wave-interactions-derivation)
+- [Chibbaro, S., Dematteis, G., Josserand, C. and Rondoni, L., 2017. Wave-turbulence theory of four-wave nonlinear interactions. Physical Review E, 96(2), p.021101.](/publications/2017-08-30-wave-turbulence-four-wave-systems)
