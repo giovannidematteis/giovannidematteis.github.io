@@ -5,7 +5,7 @@ breaking, is a key ingredient to understanding upwelling and horizontal circulat
 analysis of the downscale energy flux in the internal wave field, with the aim of providing a solid theoretical background to 
 the finescale parameterizations that are used to include the effects of internal waves in the Ocean Global Circulation Models.<br><br>
 
-<br/><img src='/images/image1.png' style='width:700px;'>"
+<br/><img src='/images/image1a.png' style='width:700px;'>"
 collection: portfolio
 ---
 Collaborators: [Yuri Lvov](http://wave.math.rpi.edu/), [Kurt Polzin](https://web.whoi.edu/polzin/), [Friederike Pollmann](https://www.awi.de/en/about-us/organisation/staff/single-view/friederike-pollmann.html), [Arnaud Le Boyer](http://www.mod.ucsd.edu/arnaud-le-boyer)<br><br>
