@@ -12,4 +12,9 @@ Collaborators: [Eric Vanden Eijnden](https://wp.nyu.edu/courantinstituteofmathem
 Select publications:
 - [Experimental evidence of hydrodynamic instantons (PRX 2019)](/publications/2019-12-18-experimental-evidence-instantons)
 - [Extreme events in dynamical systems (JUQ 2019)](/publications/2019-08-13-extreme-events-dynamical-systems)
-- [Rogue waves and large deviations (PNAS 2018)](/publications/2018-01-30-rogue-waves-large-deviations)
+- [Rogue waves and large deviations (PNAS 2018)](/publications/2018-01-30-rogue-waves-large-deviations)<br><br>
+
+Featured:
+- [Scientific American](https://www.scientificamerican.com/article/new-model-predicts-sudden-rogue-waves/)
+- [Quanta Magazine](https://www.quantamagazine.org/the-grand-unified-theory-of-rogue-waves-20200205/)
+- [Physics magazine of APS](https://physics.aps.org/articles/v12/146)
